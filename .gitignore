@@ -1,0 +1,18 @@
+#for venv
+include/
+bin/
+lib/
+lib64
+__pycache__/
+
+pip-selfcheck.json
+pyvenv.cfg
+share/
+*.swp
+file.csv
+A_Z\ Handwritten\ Data.zip
+Hello1.png
+*.pyc
+*.jpg
+*.png
+*.sav
